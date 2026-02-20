@@ -12,6 +12,13 @@ Built with:
 -   Animated chat interface
 -   Deterministic scoring engine
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./screenshots/ASK_NAME.png" width="30%" />
+  <img src="./screenshots/QUIZ.png" width="30%" />
+  <img src="./screenshots/RESULT.png" width="30%" />
+</p>
 ------------------------------------------------------------------------
 
 ## ✨ Features
