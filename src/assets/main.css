@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+}
+
+/* Animations for TransitionGroup "msg" */
+.msg-enter-active, .msg-leave-active {
+  transition: all 500ms ease;
+}
+
+.msg-enter-from {
+  opacity: 0;
+  transform: translateY(8px);
+}
+
+.msg-leave-to {
+  opacity: 0;
+  transform: translateY(-6px);
+}
